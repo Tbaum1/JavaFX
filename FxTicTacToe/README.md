@@ -8,7 +8,7 @@ The player can simply reset the board after each game or when need arises by cli
 ## Example Output
 
 
-![Sample Output](Clear Board.jpg) 
+![Sample Output](Clear.jpg) 
 
 ![Sample Output](Playing.jpg)
 
