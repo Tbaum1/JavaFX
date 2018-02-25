@@ -1,2 +1,0 @@
-# FxtTicTacToe
-javafx TicTacToe
