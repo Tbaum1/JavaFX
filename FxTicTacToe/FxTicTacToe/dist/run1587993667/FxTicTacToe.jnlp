@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="FxTicTacToe.jnlp">
+  <information>
+    <title>FxTicTacToe</title>
+    <vendor>antho</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="FxTicTacToe.jar" size="16488" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="FxTicTacToe" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="fxtictactoe.FxTicTacToe"  name="FxTicTacToe" />
+  <update check="always"/>
+</jnlp>
